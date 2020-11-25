@@ -1,0 +1,30 @@
+html {
+    color: rgb(31, 33, 66);
+    font-size: 10px;
+    font-family: 'Architects Daughter', cursive;
+    background-color:rgb(181, 201, 228);
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 3px 3px 1px black;
+    color: rgb(255, 117, 98);
+}
+p,li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color:rgb(206, 233, 250);
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
